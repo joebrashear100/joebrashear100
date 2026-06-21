@@ -10,7 +10,7 @@ Atlanta, GA · [LinkedIn](https://www.linkedin.com/in/joe-brashear-delta/)
 
 - [power-app-emulator](https://github.com/joebrashear100/power-app-emulator) - Universal Power App UI emulator that renders any `.msapp` file locally with Fluent UI v9
 - [context-intelligence-engine](https://github.com/joebrashear100/context-intelligence-engine) - Personal intelligence system aggregating 13 macOS data sources into cross-correlated insights
-- [claude-notify](https://github.com/joebrashear100/claude-notify) - Notification service for long-running CI and agent jobs, running on GitHub Actions
+- [ci-notify](https://github.com/joebrashear100/ci-notify) - Notification service for long-running CI and agent jobs, running on GitHub Actions
 - [cuponer](https://github.com/joebrashear100/cuponer) - Chat-first personal finance AI: Swift iOS app with a FastAPI backend and Plaid sync
 
 ### Stack
